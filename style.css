@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+.img-cat{
+    margin: 0px auto;
+    display: flex;
+    width: 600px;
+
+}
